@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# Welcome to YiFan's Notes
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+DUT->ZJU 数学本硕
 
-## Commands
+浙大研二在读，努力毕业中...
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Coding菜鸡想找技术岗:disappointed_relieved:
 
-## Project layout
+## 唱歌
+合唱团练习时长两年半（2023-至今）:singer:
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 健身
+脆皮研究生，2025.9开始健身，为了学跳舞！
+
+## 拍摄
+前自媒体员工，现已不更新视频
+
+
+
+
+
