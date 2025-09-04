@@ -9,3 +9,10 @@ nav:
     - 入门: 健身/0.训练计划.md
     - 记录: 健身/1.健身记录.md
     - 饮食: 健身/2.饮食计划.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:  # 这个扩展能更好地处理$和$$包裹的公式
+      generic: true  # 建议设置为true，以便后续使用MathJax等渲染器
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML  # 引入MathJax库
