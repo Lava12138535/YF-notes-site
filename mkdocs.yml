@@ -1,0 +1,11 @@
+site_name: YF's Notes
+theme:
+  name: material # 使用material主题
+  language: zh # 设置语言为中文，部分主题支持中文界面
+
+nav:
+  - Home: index.md
+  - 健身:
+    - 入门: 健身/0.训练计划.md
+    - 记录: 健身/1.健身记录.md
+    - 饮食: 健身/2.饮食计划.md
