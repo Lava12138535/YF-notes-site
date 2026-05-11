@@ -9,6 +9,8 @@ nav:
     - 入门: 健身/0.训练计划.md
     - 记录: 健身/1.健身记录.md
     - 饮食: 健身/2.饮食计划.md
+  - 技术笔记:
+    - vscode配置C++环境: 技术笔记/vscode配置C++环境.md
 
 markdown_extensions:
 
