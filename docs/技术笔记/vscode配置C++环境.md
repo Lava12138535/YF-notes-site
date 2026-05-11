@@ -1,3 +1,5 @@
+# VScode 配置C++环境
+
 [关于搭环境（C/C++编译器和VSCode的安装、配置）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1id4y1n7Kw/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=9ec10bcc3b93b1166196ae23112e6eb2)
 
 答疑：
